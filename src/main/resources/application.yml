@@ -3,7 +3,7 @@ spring:
     active:
       - db
   application:
-    name: lab10-second
+    name: lab
   datasource:
     url: jdbc:mysql://localhost:3306/selabdb-2?createDatabaseIfNotExist=true&autoReconnect=true&characterEncoding=UTF-8&allowMultiQueries=true&allowPublicKeyRetrieval=true&useSSL=false&useUnicode=true
     driver-class-name: com.mysql.cj.jdbc.Driver
